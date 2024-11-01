@@ -7,6 +7,10 @@
 /bazel-out
 
 README.md
+.editorconfig
+.browserslistrc
+.vscode
+karma.conf.js
 
 # Node
 /node_modules
